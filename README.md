@@ -1,7 +1,7 @@
 # Werewolves Benchmark
 Work in progress.
 
-The broader idea is to create a benchmark for AI's to see who is the best at playing Werewolves. Werewolves is a very interesting benchmark because it tests the ability for LLM's to deveive each other and strategize amongst eachother.
+The broader idea is to create a benchmark for AI's to see who is the best at playing Werewolves. Werewolves is a very interesting benchmark because it tests the ability for LLM's to deveive each other and strategize amongst themselves.
 
 Currently this is a CLI application that spawns n instances of ChatGPT 4o and has them play the Werewolves game against eachother.
 
